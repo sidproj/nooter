@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "471622134386",
+    "project_id": "wagwan-95fdf",
+    "storage_bucket": "wagwan-95fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471622134386:android:47b842521893437ac7b0eb",
+        "android_client_info": {
+          "package_name": "com.example.wagwan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471622134386-q4k3lu78gm0uu2lk70hrtdekhgmfk3sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRwYX1vuMyaCLJTGYRqL_UiBvCUenR_Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471622134386-q4k3lu78gm0uu2lk70hrtdekhgmfk3sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471622134386-k9qagtas9ub6k941v66kp1is694bcahb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wagwan.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
